@@ -1,7 +1,3 @@
-Here's a revised version of your "README" for the DNN Concolic Testing with Transformer project:
-
----
-
 # DNN Concolic Testing with Transformer
 
 This project implements concolic testing on a Transformer model to enhance its robustness and performance evaluation.
@@ -34,17 +30,6 @@ python3 dnnct_transformer_multi.py
 ## Notes
 
 - Ensure all dependencies are installed and your Python environment is correctly configured.
-- Precomputed SHAP values for the first layer must be available in the `shap_value` directory before running the script, as they are essential for the analysis.
 
-## Troubleshooting
 
-If you encounter any issues, check the following:
 
-- Ensure that SHAP values are correctly formatted and accessible in the `shap_value` directory.
-- Verify that all necessary Python libraries are installed.
-
-For further assistance, please refer to the project documentation or contact the project maintainers.
-
----
-
-Feel free to adjust any specific details or formatting to better fit your needs!
